@@ -1,7 +1,7 @@
 {
-  "name": "whatsasena",
+  "name": "littleking",
   "version": "0.10.0",
-  "description": "WhatsAsena project - a Whatsapp userbot helping to improve your Whatsapp experience.",
+  "description": "LittleKing project - a Whatsapp userbot helping to improve your Whatsapp experience.",
   "main": "./whatsAsena/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
@@ -13,7 +13,7 @@
   "keywords": [
     "whatsapp"
   ],
-  "author": "AsenaDev / Yusuf Usta",
+  "author": "wtzbot",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/Quiec/WhatsAsena/issues"
